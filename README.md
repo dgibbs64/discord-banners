@@ -1,7 +1,7 @@
 # Discord Banners
 This is a reference of all the official Discord banners for use on websites.
 
-Replace the server ID with your own Discord server ID.<br> 
+Replace the server ID with your own Discord server ID.
 This can be found in `Server Settings > Widget > Server ID` 
 
 ## Shield
@@ -12,7 +12,7 @@ This can be found in `Server Settings > Widget > Server ID`
 ![Discord Shield](https://discordapp.com/api/guilds/[SERVER ID]/widget.png?style=shield)
 ```
 ### HTML
-```
+```html
 <img src="https://discordapp.com/api/guilds/[SERVER ID]/widget.png?style=shield" alt="Discord Shield"/>
 ```
 ## Banner 1
@@ -23,7 +23,7 @@ This can be found in `Server Settings > Widget > Server ID`
 ![Discord Banner 1](https://discordapp.com/api/guilds/[SERVER ID]/widget.png?style=banner1)
 ```
 ### HTML
-```
+```html
 <img src="https://discordapp.com/api/guilds/[SERVER ID]/widget.png?style=banner1" alt="Discord Banner 1"/>
 ```
 ## Banner 2
@@ -34,7 +34,7 @@ This can be found in `Server Settings > Widget > Server ID`
 ![Discord Banner 2](https://discordapp.com/api/guilds/[SERVER ID]/widget.png?style=banner2)
 ```
 ### HTML
-```
+```html
 <img src="https://discordapp.com/api/guilds/[SERVER ID]/widget.png?style=banner2" alt="Discord Banner 2"/>
 ```
 ## Banner 3
@@ -45,7 +45,7 @@ This can be found in `Server Settings > Widget > Server ID`
 ![Discord Banner 3](https://discordapp.com/api/guilds/[SERVER ID]/widget.png?style=banner3)
 ```
 ### HTML
-```
+```html
 <img src="https://discordapp.com/api/guilds/[SERVER ID]/widget.png?style=banner3" alt="Discord Banner 3"/>
 ```
 ## Banner 4
@@ -56,6 +56,6 @@ This can be found in `Server Settings > Widget > Server ID`
 ![Discord Banner 4](https://discordapp.com/api/guilds/[SERVER ID]/widget.png?style=banner4)
 ```
 ### HTML
-```
+```html
 <img src="https://discordapp.com/api/guilds/[SERVER ID]/widget.png?style=banner4" alt="Discord Banner 4"/>
 ```
